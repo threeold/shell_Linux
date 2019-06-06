@@ -1,7 +1,7 @@
 # shell、Linux、laravel常用命令
 
-    cd 到相应目录
-    grep命令用于查找文件里符合条件的字符串。
+    cd    到相应目录
+    grep  命令用于查找文件里符合条件的字符串。
     sudo -Hu www 用www要执行
 
 ### less [参数] 文件 
